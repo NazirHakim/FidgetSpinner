@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Myandroidapp\FidgetSpinner\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6afc0da9851b8b8450bb699eebc4073ecb9616d">
+        <dex dex="D:\Myandroidapp\FidgetSpinner\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f8548dacc5ab7b3354c120e60f2d69731f5a763c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Myandroidapp\FidgetSpinner\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\Myandroidapp\FidgetSpinner\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6243d96120ee3c3a33f71fcb2f02025ec4f6068f\classes.dex" />
+    </item>
+
+</items>
