@@ -2,22 +2,76 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="D:\Myandroidapp\FidgetSpinner\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\nazir\.android\build-cache\ae48430b555db4215b68f89bcdcec6b57fb848ef\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="d6afc0da9851b8b8450bb699eebc4073ecb9616d">
-        <dex dex="D:\Myandroidapp\FidgetSpinner\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f8548dacc5ab7b3354c120e60f2d69731f5a763c\classes.dex" />
+        sha1="6d4384aa06b19d6aecdb87102784d5c0d2ea7532">
+        <dex dex="D:\Myandroidapp\FidgetSpinner\app\build\intermediates\pre-dexed\debug\classes_2f7b4aed0f3589ea595f19bf7d91011bfa2e6420.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="D:\Myandroidapp\FidgetSpinner\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\nazir\.android\build-cache\50df7804e356a20dadf75c855d9db3bb59786ec1\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
-        <dex dex="D:\Myandroidapp\FidgetSpinner\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6243d96120ee3c3a33f71fcb2f02025ec4f6068f\classes.dex" />
+        sha1="de123ff49c41c304ca4bc7eb5600d294984eaf5f">
+        <dex dex="D:\Myandroidapp\FidgetSpinner\app\build\intermediates\pre-dexed\debug\classes_79931aa4d47012c3826b9ca0d7b224860f374a91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nazir\.android\build-cache\0f182921d9f83f70b3df35df7fc2797bdfe3f1af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="D:\Myandroidapp\FidgetSpinner\app\build\intermediates\pre-dexed\debug\classes_3f872164e9c3274a90e53489ba56d83633f44c3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nazir\.android\build-cache\5202f7645117d3d2a9b0ae24bc5c4f66100c18eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
+        <dex dex="D:\Myandroidapp\FidgetSpinner\app\build\intermediates\pre-dexed\debug\classes_728e81bc6eabe813182fc8835b3901b05c8fe384.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nazir\.android\build-cache\a0e321d8bd807ee3377008f4076114cd3c5433aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0dc1af4997434691ade16df4be64d49d1bd1fef5">
+        <dex dex="D:\Myandroidapp\FidgetSpinner\app\build\intermediates\pre-dexed\debug\classes_fff86d8d61ae42d71e290bb1863fea3f822b3d56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nazir\.android\build-cache\ae2f27457f243e321587c8d5ebfc6a4332a31fcc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="589f444b075f47c43c78d6d7c46198b34ce4c1b6">
+        <dex dex="D:\Myandroidapp\FidgetSpinner\app\build\intermediates\pre-dexed\debug\classes_6594b63f332e4c6aee15d49bf548740d427de399.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nazir\.android\build-cache\db6dd9c693dcf0dd3238698afcf3d21ae59ee79b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
+        <dex dex="D:\Myandroidapp\FidgetSpinner\app\build\intermediates\pre-dexed\debug\classes_eb1aa95e958d37b7dd6be38f664ab3bffba2ad14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nazir\.android\build-cache\bae7ab0ae61a8d2fa073bee4f9ec704810d666e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c16e0d5f6efb0cdae98b38fe9a48d5236ea136d0">
+        <dex dex="D:\Myandroidapp\FidgetSpinner\app\build\intermediates\pre-dexed\debug\classes_9893b6ae340c15afd799d1b9cc9ec58dab7362dd.jar" />
     </item>
 
 </items>
